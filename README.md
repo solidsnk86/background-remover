@@ -1,4 +1,7 @@
-![Downloads](https://img.shields.io/badge/Downloads-1000%2Fmonth-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
+![Coverage](https://img.shields.io/badge/Coverage-80%25-green.svg)
+
 
 
 # Background-Remover
