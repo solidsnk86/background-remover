@@ -1,8 +1,5 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
-![Coverage](https://img.shields.io/badge/Coverage-20%25-tomato.svg)
-
-
 
 # Background-Remover
 
