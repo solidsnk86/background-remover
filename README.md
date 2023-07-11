@@ -1,12 +1,12 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
-![Coverage](https://img.shields.io/badge/Coverage-80%25-green.svg)
+![Coverage](https://img.shields.io/badge/Coverage-20%25-tomato.svg)
 
 
 
 # Background-Remover
 
-Este es un proyecto viejo hecho con Python para tratar de quitar el fondo de una imagen.
+Este es un proyecto hecho con Python para tratar de quitar el fondo de una imagen.
 Está en proceso de calibración y desarrollo.
 Cualquier detalle y error, se agradece un fork!
 
