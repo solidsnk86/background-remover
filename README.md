@@ -26,6 +26,12 @@ Para utilizar este proyecto, sigue estos pasos:
 
 Aquí hay un ejemplo básico de cómo utilizar el proyecto:
 
+1- Puedes descargar el zip y ejecutar el archivo `bg-remover.py` en Windows y probar con imágenes no mayores a 1920*1080.
+
+2- Recuerda que este es un proyecto en construcción y contiene errores.
+
+3- Puedes copiar éste código y empezar a afinar el algoritmo. Estarías contribuyendo a la causa! 👀
+
 ```python
 from flask import Flask, request, jsonify
 import cv2
