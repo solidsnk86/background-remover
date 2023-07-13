@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=637CF7&width=435&lines=Hi!!+Welcome+my+name+is+Gabriel+%E3%83%84;I'm+a+Full+stack+Developer+;From+Argentina+%F0%9F%A7%89)](https://git.io/typing-svg)
+
 ### Contactos
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-calcagni-659907260) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/calcagni_gabriel26/?ishid=ZDdkNTZiNTM%3D) 
 ##
