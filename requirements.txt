@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Requirements-yellow)
+
 Flask==2.1.0
 opencv-python==4.5.3.56
 numpy==1.21.4
