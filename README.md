@@ -1,5 +1,5 @@
 
- ![Static Badge](https://img.shields.io/badge/Background-Remover-mediumslateblue)
+ ![Static Badge](https://img.shields.io/badge/Background-Remover-greenyellow)
 
 Este es un proyecto hecho con Python para tratar de quitar el fondo de una imagen.
 
