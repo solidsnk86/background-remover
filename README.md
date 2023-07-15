@@ -1,18 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=637CF7&width=435&lines=Hi!!+Welcome+my+name+is+Gabriel+%E3%83%84;I'm+a+Full+stack+Developer+;From+Argentina+%F0%9F%A7%89)](https://git.io/typing-svg)
-
- <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solidsnk86&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
-  </a>
-
- <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidsnk86&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-  </a>
-
-### Contactos
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-calcagni-659907260) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/calcagni_gabriel26/?ishid=ZDdkNTZiNTM%3D) 
-##
-![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
-![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
 
 # Background-Remover
 
@@ -23,6 +8,13 @@ El objetivo principal de este proyecto es brindar una herramienta fácil de usar
 ## Estado del Proyecto
 
 El proyecto se encuentra en etapa de desarrollo activo. Se está trabajando en mejorar la precisión y eficiencia del algoritmo de eliminación de fondos. Se agradece cualquier contribución, sugerencia o reporte de errores.
+
+
+### Contactos
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-calcagni-659907260) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/calcagni_gabriel26/?ishid=ZDdkNTZiNTM%3D) 
+##
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
 
 ## Instalación
 
