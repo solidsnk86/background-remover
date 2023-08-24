@@ -16,13 +16,6 @@ El proyecto se encuentra en etapa de desarrollo activo. Se está trabajando en m
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/License-GNU%20GPL--3.0-blue.svg)
 
-## Instalación
-
-Para utilizar este proyecto, sigue estos pasos:
-
-1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias necesarias ejecutando el comando `pip install -r requirements.txt`.
-3. Ejecuta el script principal para utilizar la herramienta.
 
 ## Ejemplos de Uso
 
