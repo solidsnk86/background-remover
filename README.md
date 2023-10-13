@@ -7,7 +7,7 @@ El objetivo principal de este proyecto es brindar una herramienta fácil de usar
 
 ## Estado del Proyecto
 
-El proyecto se encuentra en etapa de desarrollo activo. Se está trabajando en mejorar la precisión y eficiencia del algoritmo de eliminación de fondos. Se agradece cualquier contribución, sugerencia o reporte de errores.
+El proyecto se encuentra en etapa de desarrollo (Lo abandoné un tiempo 🫠). Se está trabajando en mejorar la precisión y eficiencia del algoritmo de eliminación de fondos. Se agradece cualquier contribución, sugerencia o reporte de errores.
 
 
 ### Contactos
